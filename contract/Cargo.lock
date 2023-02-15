@@ -629,6 +629,8 @@ version = "1.0.0"
 dependencies = [
  "airdrop-merkle-tree-near-rs",
  "near-sdk",
+ "serde",
+ "serde_json",
  "uint",
 ]
 
